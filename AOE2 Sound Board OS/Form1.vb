@@ -3,12 +3,13 @@ Imports Microsoft.Win32
 
 Public Class Form1
     Dim rootDir As String
-    Dim a As new MediaPlayer.MediaPlayer
+
     Public Sub getInstallPath() Handles Me.Load
         Dim key As RegistryKey = Registry.LocalMachine.OpenSubKey("SOFTWARE\Microsoft\Microsoft Games\Age of Empires\2.0")
         rootDir = key.GetValue("InstallationDirectory")
     End Sub
     Public Sub playTaunt(ByRef source As String)
+        Dim a As New MediaPlayer.MediaPlayer
         a.FileName = rootDir + "\" + source
         a.Play()
         getInstallPath()
