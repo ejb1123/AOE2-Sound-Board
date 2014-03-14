@@ -54,8 +54,6 @@ private slots:
 
     void on_pushButton_19_clicked();
 
-    void on_pushButton_20_clicked(bool checked);
-
     void on_pushButton_20_clicked();
 
     void on_pushButton_21_clicked();
