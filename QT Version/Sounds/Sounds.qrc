@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>01.wav</file>
+        <file>02.wav</file>
+        <file>03.wav</file>
+        <file>04.wav</file>
+        <file>05.wav</file>
+        <file>06.wav</file>
+        <file>07 Ahh.wav</file>
+        <file>08 All hail.wav</file>
+        <file>09 Oooh.wav</file>
+        <file>10 Back to Age 1.wav</file>
+        <file>11 Herb laugh.wav</file>
+        <file>12 Being rushed.wav</file>
+        <file>13 Blame your isp.wav</file>
+        <file>14 Start the game.wav</file>
+        <file>15 Don't Point That Thing.wav</file>
+        <file>16 Enemy Sighted.wav</file>
+        <file>17 It Is Good.wav</file>
+        <file>18 I Need a Monk.wav</file>
+        <file>19 Long Time No Siege.wav</file>
+        <file>20 My granny.wav</file>
+        <file>21 Nice Town I'll Take It.wav</file>
+        <file>22 Quit Touchin.wav</file>
+        <file>23 Raiding Party.wav</file>
+        <file>24 Dadgum.wav</file>
+        <file>25 Smite Me.wav</file>
+        <file>26 The wonder.wav</file>
+        <file>27 You play 2 hours.wav</file>
+        <file>28 You Should See the Other Guy.wav</file>
+        <file>29 Roggan.wav</file>
+        <file>30 Wololo.wav</file>
+    </qresource>
+</RCC>
