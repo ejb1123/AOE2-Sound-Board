@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>848</width>
+    <height>219</height>
+   </rect>
+  </property>
+  <property name="sizePolicy">
+   <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+    <horstretch>0</horstretch>
+    <verstretch>0</verstretch>
+   </sizepolicy>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>848</width>
+    <height>219</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>848</width>
+    <height>219</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="unifiedTitleAndToolBarOnMac">
+   <bool>true</bool>
+  </property>
+  <widget class="QWidget" name="centralWidget">
+   <property name="contextMenuPolicy">
+    <enum>Qt::NoContextMenu</enum>
+   </property>
+   <layout class="QGridLayout" name="gridLayout">
+    <property name="leftMargin">
+     <number>8</number>
+    </property>
+    <property name="topMargin">
+     <number>8</number>
+    </property>
+    <property name="rightMargin">
+     <number>8</number>
+    </property>
+    <property name="bottomMargin">
+     <number>8</number>
+    </property>
+    <property name="spacing">
+     <number>8</number>
+    </property>
+    <item row="0" column="6">
+     <widget class="QPushButton" name="pushButton_6">
+      <property name="minimumSize">
+       <size>
+        <width>76</width>
+        <height>53</height>
+       </size>
+      </property>
+      <property name="text">
+       <string>Stone
+Please</string>
+      </property>
+     </widget>
+    </item>
+    <item row="4" column="6">
+     <widget class="QPushButton" name="pushButton_26">
+      <property name="minimumSize">
+       <size>
+        <width>76</width>
+        <height>53</height>
+       </size>
+      </property>
+      <property name="text">
+       <string>The Wonder</string>
+      </property>
+     </widget>
+    </item>
+    <item row="0" column="10">
+     <widget class="QPushButton" name="pushButton_9">
+      <property name="minimumSize">
+       <size>
+        <width>76</width>
+        <height>53</height>
+       </size>
+      </property>
+      <property name="text">
+       <string>Oooh</string>
+      </property>
+     </widget>
+    </item>
+    <item row="4" column="5">
+     <widget class="QPushButton" name="pushButton_25">
+      <property name="minimumSize">
+       <size>
+        <width>76</width>
+        <height>53</height>
+       </size>
+      </property>
+      <property name="text">
+       <string>Smite Me</string>
+      </property>
+     </widget>
+    </item>
+    <item row="1" column="3">
+     <widget class="QPushButton" name="pushButton_13">
+      <property name="minimumSize">
+       <size>
+        <width>76</width>
+        <height>53</height>
+       </size>
+      </property>
+      <property name="text">
+       <string>Blame it on
+ISP</string>
+      </property>
+     </widget>
+    </item>
+    <item row="0" column="8">
+     <widget class="QPushButton" name="pushButton_8">
+      <property name="minimumSize">
+       <size>
+        <width>76</width>
+        <height>53</height>
+       </size>
+      </property>
+      <property name="text">
+       <string>All Hail</string>
+      </property>
+     </widget>
+    </item>
+    <item row="4" column="4">
+     <widget class="QPushButton" name="pushButton_24">
+      <property name="minimumSize">
+       <size>
+        <width>76</width>
+        <height>53</height>
+       </size>
+      </property>
+      <property name="text">
+       <string>Dadgum</string>
+      </property>
+     </widget>
+    </item>
+    <item row="0" column="4">
+     <widget class="QPushButton" name="pushButton_4">
+      <property name="minimumSize">
+       <size>
+        <width>76</width>
+        <height>53</height>
+       </size>
+      </property>
+      <property name="text">
+       <string>Wood
+Please</string>
+      </property>
+     </widget>
+    </item>
+    <item row="0" column="1">
+     <widget class="QPushButton" name="pushButton_2">
+      <property name="minimumSize">
+       <size>
+        <width>76</width>
+        <height>53</height>
+       </size>
+      </property>
+      <property name="text">
+       <string>No</string>
+      </property>
+     </widget>
+    </item>
+    <item row="0" column="12">
+     <widget class="QPushButton" name="pushButton_10">
+      <property name="minimumSize">
+       <size>
+        <width>76</width>
+        <height>53</height>
+       </size>
+      </property>
+      <property name="text">
+       <string>Back to
+AOE</string>
+      </property>
+     </widget>
+    </item>
+    <item row="1" column="6">
+     <widget class="QPushButton" name="pushButton_16">
+      <property name="minimumSize">
+       <size>
+        <width>76</width>
+        <height>53</height>
+       </size>
+      </property>
+      <property name="text">
+       <string>Enemy
+Sighted</string>
+      </property>
+     </widget>
+    </item>
+    <item row="4" column="7">
+     <widget class="QPushButton" name="pushButton_27">
+      <property name="minimumSize">
+       <size>
+        <width>76</width>
+        <height>53</height>
+       </size>
+      </property>
+      <property name="text">
+       <string>You Play
+Two Hours</string>
+      </property>
+     </widget>
+    </item>
+    <item row="0" column="3">
+     <widget class="QPushButton" name="pushButton_3">
+      <property name="minimumSize">
+       <size>
+        <width>76</width>
+        <height>53</height>
+       </size>
+      </property>
+      <property name="text">
+       <string>Food
+Please</string>
+      </property>
+     </widget>
+    </item>
+    <item row="1" column="8">
+     <widget class="QPushButton" name="pushButton_18">
+      <property name="minimumSize">
+       <size>
+        <width>76</width>
+        <height>53</height>
+       </size>
+      </property>
+      <property name="text">
+       <string>I Need a
+Monk</string>
+      </property>
+     </widget>
+    </item>
+    <item row="1" column="4">
+     <widget class="QPushButton" name="pushButton_14">
+      <property name="minimumSize">
+       <size>
+        <width>76</width>
+        <height>53</height>
+       </size>
+      </property>
+      <property name="text">
+       <string>Start The
+ Game</string>
+      </property>
+     </widget>
+    </item>
+    <item row="0" column="5">
+     <widget class="QPushButton" name="pushButton_5">
+      <property name="minimumSize">
+       <size>
+        <width>76</width>
+        <height>53</height>
+       </size>
+      </property>
+      <property name="text">
+       <string>Gold
+Please</string>
+      </property>
+     </widget>
+    </item>
+    <item row="1" column="0">
+     <widget class="QPushButton" name="pushButton_11">
+      <property name="minimumSize">
+       <size>
+        <width>76</width>
+        <height>53</height>
+       </size>
+      </property>
+      <property name="text">
+       <string>Herb Laugh</string>
+      </property>
+     </widget>
+    </item>
+    <item row="1" column="1">
+     <widget class="QPushButton" name="pushButton_12">
+      <property name="minimumSize">
+       <size>
+        <width>76</width>
+        <height>53</height>
+       </size>
+      </property>
+      <property name="text">
+       <string>Being
+Rushed</string>
+      </property>
+     </widget>
+    </item>
+    <item row="0" column="7">
+     <widget class="QPushButton" name="pushButton_7">
+      <property name="minimumSize">
+       <size>
+        <width>76</width>
+        <height>53</height>
+       </size>
+      </property>
+      <property name="text">
+       <string>Ahh</string>
+      </property>
+     </widget>
+    </item>
+    <item row="1" column="7">
+     <widget class="QPushButton" name="pushButton_17">
+      <property name="minimumSize">
+       <size>
+        <width>76</width>
+        <height>53</height>
+       </size>
+      </property>
+      <property name="text">
+       <string>It is Good</string>
+      </property>
+     </widget>
+    </item>
+    <item row="1" column="10">
+     <widget class="QPushButton" name="pushButton_19">
+      <property name="minimumSize">
+       <size>
+        <width>76</width>
+        <height>53</height>
+       </size>
+      </property>
+      <property name="text">
+       <string>Long Time
+No Siege</string>
+      </property>
+     </widget>
+    </item>
+    <item row="4" column="0">
+     <widget class="QPushButton" name="pushButton_21">
+      <property name="minimumSize">
+       <size>
+        <width>76</width>
+        <height>53</height>
+       </size>
+      </property>
+      <property name="text">
+       <string>Nice Town
+I'll Take it</string>
+      </property>
+     </widget>
+    </item>
+    <item row="4" column="1">
+     <widget class="QPushButton" name="pushButton_22">
+      <property name="minimumSize">
+       <size>
+        <width>76</width>
+        <height>53</height>
+       </size>
+      </property>
+      <property name="text">
+       <string>Quit Touchin</string>
+      </property>
+     </widget>
+    </item>
+    <item row="4" column="3">
+     <widget class="QPushButton" name="pushButton_23">
+      <property name="minimumSize">
+       <size>
+        <width>76</width>
+        <height>53</height>
+       </size>
+      </property>
+      <property name="text">
+       <string>Raiding
+Party</string>
+      </property>
+     </widget>
+    </item>
+    <item row="4" column="8">
+     <widget class="QPushButton" name="pushButton_28">
+      <property name="minimumSize">
+       <size>
+        <width>76</width>
+        <height>53</height>
+       </size>
+      </property>
+      <property name="text">
+       <string>You Should
+see the
+Other Guy</string>
+      </property>
+     </widget>
+    </item>
+    <item row="4" column="10">
+     <widget class="QPushButton" name="pushButton_29">
+      <property name="minimumSize">
+       <size>
+        <width>76</width>
+        <height>53</height>
+       </size>
+      </property>
+      <property name="text">
+       <string>Roggan</string>
+      </property>
+     </widget>
+    </item>
+    <item row="4" column="12">
+     <widget class="QPushButton" name="pushButton_30">
+      <property name="minimumSize">
+       <size>
+        <width>76</width>
+        <height>53</height>
+       </size>
+      </property>
+      <property name="text">
+       <string>Wololo</string>
+      </property>
+     </widget>
+    </item>
+    <item row="1" column="12">
+     <widget class="QPushButton" name="pushButton_20">
+      <property name="minimumSize">
+       <size>
+        <width>76</width>
+        <height>53</height>
+       </size>
+      </property>
+      <property name="text">
+       <string>My Granny</string>
+      </property>
+     </widget>
+    </item>
+    <item row="1" column="5">
+     <widget class="QPushButton" name="pushButton_15">
+      <property name="minimumSize">
+       <size>
+        <width>76</width>
+        <height>53</height>
+       </size>
+      </property>
+      <property name="text">
+       <string>Don't Point
+ that Thing</string>
+      </property>
+     </widget>
+    </item>
+    <item row="0" column="0">
+     <widget class="QPushButton" name="pushButton">
+      <property name="minimumSize">
+       <size>
+        <width>76</width>
+        <height>53</height>
+       </size>
+      </property>
+      <property name="text">
+       <string>Yes</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+</ui>
