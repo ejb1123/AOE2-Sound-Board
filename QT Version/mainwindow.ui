@@ -253,8 +253,8 @@ Monk</string>
        </size>
       </property>
       <property name="text">
-       <string>Start
-The Game</string>
+       <string>Start The
+ Game</string>
       </property>
      </widget>
     </item>
@@ -321,7 +321,7 @@ Rushed</string>
        </size>
       </property>
       <property name="text">
-       <string>is is Good</string>
+       <string>It is Good</string>
       </property>
      </widget>
     </item>
@@ -362,7 +362,7 @@ I'll Take it</string>
        </size>
       </property>
       <property name="text">
-       <string>Quit Touchen</string>
+       <string>Quit Touchin</string>
       </property>
      </widget>
     </item>
